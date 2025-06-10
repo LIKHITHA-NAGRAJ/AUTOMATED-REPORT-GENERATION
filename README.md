@@ -181,6 +181,43 @@ This tool has a wide range of potential use cases:
 
 The **Enhanced Report Dashboard** project is a complete, scalable reporting solution that brings together multiple powerful technologies in one accessible package. Whether for business, education, or freelance work, it automates the most common tasks involved in data reporting, offering a practical, real-world application of Python development.
 
+![Image](https://github.com/user-attachments/assets/11fe3328-6cdf-4735-86d0-83659955f8cc)
+
+![Image](https://github.com/user-attachments/assets/769b8b99-937e-4c28-92ad-acb861b74002)
+
+![Image](https://github.com/user-attachments/assets/d4875fe3-16f8-4b8e-a74f-34682eba7c75)
+
+![Image](https://github.com/user-attachments/assets/775c8ce9-04c4-481b-b7ac-d56a9b16da67)
+
+![Image](https://github.com/user-attachments/assets/f17d8706-d52c-4a2b-90b6-da05facafbc3)
+
+![Image](https://github.com/user-attachments/assets/9534d8c7-107d-4d0b-86c4-91a988dee0ee)
+
+![Image](https://github.com/user-attachments/assets/8644dcc2-f874-4b64-b813-bcfd89a26c52)
+
+![Image](https://github.com/user-attachments/assets/40da73a7-cbff-4243-b413-4775b54e8554)
+
+![Image](https://github.com/user-attachments/assets/194ff2d0-961d-4fcf-812b-4c86b7658d92)
+
+![Image](https://github.com/user-attachments/assets/2303a1b0-4fa7-4fdc-8f0e-a5df3ba64517)
+
+![Image](https://github.com/user-attachments/assets/bce19759-cc25-4c19-87dd-16f5a34398df)
+
+![Image](https://github.com/user-attachments/assets/0c466884-1988-4e30-b239-7b91df4adc06)
+
+![Image](https://github.com/user-attachments/assets/ca2a2ca3-b1ca-474d-96b0-ff97aeaef687)
+
+![Image](https://github.com/user-attachments/assets/9c48fbb2-e4cb-4aac-af65-349b8d880092)
+
+![Image](https://github.com/user-attachments/assets/2739e27f-513e-41bb-8936-90d3db201bf5)
+
+![Image](https://github.com/user-attachments/assets/7e2853e6-2593-4f23-8383-896ca4f8439a)
+
+![Image](https://github.com/user-attachments/assets/7150bbf9-ea1b-4592-9078-8581ecba0935)
+
+![Image](https://github.com/user-attachments/assets/beda1bbe-cdd7-41e2-8116-e48f86e06266)
+
+
 
 
 
